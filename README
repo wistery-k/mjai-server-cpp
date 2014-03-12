@@ -1,0 +1,20 @@
+C++ implementation of Mjai server.
+The main motivation is faster evaluation of mahjong AI programs.
+Still under implementation.
+
+License: New BSD License.
+
+Not yet implemented:
+on_hora
+shanten
+mentsu decomposition
+list_yaku
+log output
+
+TODO:
+Field assertion
+Exception handling
+Non-socket mode (standard IO) if it's a bottle-neck
+Faster json if it's a bottle-neck
+Refactoring
+
